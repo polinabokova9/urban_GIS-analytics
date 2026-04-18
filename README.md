@@ -17,4 +17,6 @@
 - Пространственный анализ
 - Визуализация данных
 
+
+Пример работы:
 ![Пример работы](urban_GIS-analytics/project1_accessibility_petrogradsky/output/map_buildings_access.png)
