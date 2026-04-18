@@ -20,3 +20,9 @@
 
 Пример работы:
 ![Пример работы](urban_GIS-analytics/project1_accessibility_petrogradsky/output/map_buildings_access.png)
+## Автор
+
+Полина Бокова  
+ИТМО, Институт Дизайна и Урбанистики (бакалавриат)  
+
+GitHub: https://github.com/polinabokova9
